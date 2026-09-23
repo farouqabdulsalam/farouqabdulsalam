@@ -15,4 +15,4 @@ LMS, E-commerce and Hospital Management apps (Next.js + Node.js + MongoDB)
 
 📫 Contact
 
-[[YOUR-PORTFOLIO-LINK](https://portfolio-7f9j.vercel.app/)] · farouqabdulsalam09@gmail.com · [YOUR-LINKEDIN-LINK]
+(https://portfolio-7f9j.vercel.app/)] · farouqabdulsalam09@gmail.com · [YOUR-LINKEDIN-LINK]
