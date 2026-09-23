@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Farouq👋 Full-Stack Developer
 
-<!--
-**farouqabdulsalam/farouqabdulsalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and deploy React + Node.js + MongoDB apps. Open to remote roles.
 
-Here are some ideas to get you started:
+📍 Abuja, Nigeria (UTC+1) · 🛠️ React · Next.js · Node.js · Express · MongoDB · Tailwind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Live projects
+GlizyTube: YouTube clone in React
+Livak Inn: boutique hotel site
+Dental Clinic: clinic landing site
+Gym Website: responsive fitness site
+🔨 Building now
+
+LMS, E-commerce and Hospital Management apps (Next.js + Node.js + MongoDB)
+
+📫 Contact
+
+[[YOUR-PORTFOLIO-LINK](https://portfolio-7f9j.vercel.app/)] · farouqabdulsalam09@gmail.com · [YOUR-LINKEDIN-LINK]
